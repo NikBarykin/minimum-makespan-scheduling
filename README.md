@@ -1,3 +1,4 @@
 # minimum-makespan-scheduling
 
-Работа -- https://www.overleaf.com/read/zjxyxnxrftjb#b207bf
+[Статья](https://www.overleaf.com/read/zjxyxnxrftjb#b207bf)
+[Код](/solution.cpp)
